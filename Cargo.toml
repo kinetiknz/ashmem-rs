@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Matthew Gregan <kinetik@flim.org>"]
 edition = "2018"
 license = "ISC"
+description = "Rust wrapper around Android's ASharedMemory (ashmem) API"
+repository = "https://github.com/kinetiknz/ashmem-rs"
 
 [dependencies]
 libc = "0.2"
